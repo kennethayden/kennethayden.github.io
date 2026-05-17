@@ -13,4 +13,4 @@ Short clip of machine running:
 </video>
 
 Machine details:  
-<img alt="cnc-poster" src="https://github.com/user-attachments/assets/64f90f7e-0ef8-403b-8d72-d061dd0277dd" width="70%" />
+<img alt="cnc-poster" src="https://github.com/user-attachments/assets/64f90f7e-0ef8-403b-8d72-d061dd0277dd" width="85%" />
