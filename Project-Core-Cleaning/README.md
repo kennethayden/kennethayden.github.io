@@ -6,15 +6,21 @@ hardware, and introduces human variance in the cleaning quality, creating a seve
 This project has been validated in the industry to deliver a standardized automated cleaning and accelerate the preparation of rock samples for analysis. The machine
 removes human variance and guarantees a repeatable, high-throughput baseline for optimized spectroscopic data collection.
 
-Overview:  
-<img src="./cnc-poster.jpg" alt="cnc-poster" width="50%">
-
-Short clip of machine running:
-<video src="https://github.com/user-attachments/assets/0663c8ec-6aa6-4431-be75-8947fde65574" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Overview:</h4>
+      <img src="./cnc-poster.jpg" alt="Without human detection" width="100%">
+    </td>
+    
+  <td width="50%" valign="top">
+      <h4>Short clip of machine running:</h4>
+      <video src="PASTE_YOUR_GITHUB_VIDEO_URL_HERE" controls width="100%">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
 
 
 
