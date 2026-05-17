@@ -6,7 +6,7 @@ hardware, and introduces human variance in the cleaning quality, creating a seve
 This project has been validated in the industry to deliver a standardized automated cleaning and accelerate the preparation of rock samples for analysis. The machine
 removes human variance and guarantees a repeatable, high-throughput baseline for optimized spectroscopic data collection.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>Overview:</h4>
