@@ -7,14 +7,24 @@ to the AMR's LiDAR.
 
 This solution provides a real-time perception layer for active human detection, solving the blind zone issue without the need for modifications to the vehicle itself.
 
+AMR:
+<img width="3300" height="2475" alt="image13" src="https://github.com/user-attachments/assets/906afe3c-6c48-4da9-9d6c-b0c2d447a9aa" />
+
+
 Without human detection: The human steps into the AMR's physical blind zone from around a corner and does not react.  
-![Without human detection](./without-detection.gif)
+<video src="https://github.com/user-attachments/assets/e0fadb18-65a8-44f1-8de0-965af270f90e" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 With human detection: The human steps into the AMR's blind zone and stops accordingly to replan its path.  
-![With human detection](./with-detection.gif)
+<video src="https://github.com/user-attachments/assets/896a6483-9ca3-4b7d-b24e-7ee4bcadaeba" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 AMR's LiDAR point cloud without human detection. Blind zone appears empty.
 ![Without human detection](./lidar-without-detection.jpg)
 
 LiDAR point cloud with human detection. Human highlighted in red appears in the blind zone.
 ![With human detection](./lidar-with-detection.jpg)
+
+
