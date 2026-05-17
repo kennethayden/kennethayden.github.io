@@ -38,9 +38,9 @@ With human detection: The human steps into the AMR's blind zone and stops accord
 <table width="100%">
   <tr>
     <td width="33.33%" valign="top">
-      <br><br> <img alt="image15" src="https://github.com/user-attachments/assets/e8d835ed-9555-428f-9bf3-76163bbfa824" width="100%" />
+      <br><br> <img alt="image15" src="https://github.com/user-attachments/assets/bca4c310-a1ee-42a4-9cc8-576966197417" width="100%" />
     </td>
-    
+
   <td width="33.33%" valign="top">
       <h4>Without human detection:</h4>
       <p>Blind zone appears empty.</p>
