@@ -13,6 +13,6 @@ Short clip of machine running:
 https://github.com/user-attachments/assets/b8025c43-5cf7-424c-9a69-c668869c4af9
 
 
-<video src="./machine-running.mp4" controls width="100%" poster="">
+<video src="./machine-running.mp4" controls width="100%">
   Your browser does not support the video tag.
 </video>
