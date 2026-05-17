@@ -8,7 +8,10 @@ to the AMR's LiDAR.
 This solution provides a real-time perception layer for active human detection, solving the blind zone issue without the need for modifications to the vehicle itself.
 
 AMR:
-<img width="3300" height="2475" alt="image13" src="https://github.com/user-attachments/assets/906afe3c-6c48-4da9-9d6c-b0c2d447a9aa" />
+<img width="3300" height="2475" alt="image13" src="https://github.com/user-attachments/assets/906afe3c-6c48-4da9-9d6c-b0c2d447a9aa" width="60" />
+
+Overhead LiDAR:
+<img width="2178" height="2112" alt="image12" src="https://github.com/user-attachments/assets/19355158-ebb9-48af-80e4-d0bffe0a43c6" width="60" />
 
 
 Without human detection: The human steps into the AMR's physical blind zone from around a corner and does not react.  
