@@ -7,7 +7,7 @@ to the AMR's LiDAR.
 
 This solution provides a real-time perception layer for active human detection, solving the blind zone issue without the need for modifications to the vehicle itself.
 
-### System Overview
+### Overview
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -34,7 +34,7 @@ With human detection: The human steps into the AMR's blind zone and stops accord
   Your browser does not support the video tag.
 </video>
 
-### Point Cloud Analysis
+### Point Cloud Detection
 <table width="100%">
   <tr>
     <td width="33.33%" valign="top">
