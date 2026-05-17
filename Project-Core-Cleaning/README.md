@@ -7,7 +7,7 @@ This project has been validated in the industry to deliver a standardized automa
 removes human variance and guarantees a repeatable, high-throughput baseline for optimized spectroscopic data collection.
 
 Machine overview:  
-![Without human detection](./cnc-poster.png)
+![Without human detection](./cnc-poster.jpg)
 
 Machine running:
 ![With human detection](./machine-running.gif)
