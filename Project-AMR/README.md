@@ -24,10 +24,16 @@ With human detection: The human steps into the AMR's blind zone and stops accord
   Your browser does not support the video tag.
 </video>
 
+
+<img width="427" height="570" alt="image15" src="https://github.com/user-attachments/assets/e8d835ed-9555-428f-9bf3-76163bbfa824" />
+
+
 AMR's LiDAR point cloud without human detection. Blind zone appears empty.
-![Without human detection](./lidar-without-detection.jpg)
+<img width="571" height="386" alt="image16" src="https://github.com/user-attachments/assets/e036ad80-e98d-46f2-aa28-ebd282a7e73c" />
+
 
 LiDAR point cloud with human detection. Human highlighted in red appears in the blind zone.
-![With human detection](./lidar-with-detection.jpg)
+<img width="570" height="382" alt="image17" src="https://github.com/user-attachments/assets/a666a945-3fb3-46f6-8a1c-a7f5a4180696" />
+
 
 
