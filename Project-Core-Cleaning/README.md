@@ -15,7 +15,7 @@ removes human variance and guarantees a repeatable, high-throughput baseline for
     
   <td width="50%" valign="top">
       <h4>Short clip of machine running:</h4>
-      <video src="PASTE_YOUR_GITHUB_VIDEO_URL_HERE" controls width="100%">
+      <video src="https://github.com/user-attachments/assets/0663c8ec-6aa6-4431-be75-8947fde65574" controls width="100%">
         Your browser does not support the video tag.
       </video>
     </td>
