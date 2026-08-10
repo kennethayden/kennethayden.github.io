@@ -8,7 +8,7 @@ removes human variance and guarantees a repeatable, high-throughput baseline for
 
 
 Machine running targeted cleaning with UI overlay:
-<video src="https://github.com/user-attachments/assets/76ce7a02-07b2-4768-a085-08adbf9e5322" controls width="100%">
+<video src="https://github.com/user-attachments/assets/76ce7a02-07b2-4768-a085-08adbf9e5322" controls width="60%">
   Your browser does not support the video tag.
 </video>
 
