@@ -7,7 +7,7 @@ This project has been validated in the industry to deliver a standardized automa
 removes human variance and guarantees a repeatable, high-throughput baseline for optimized spectroscopic data collection.
 
 
-Short clip of machine running and UI overlay:
+Machine running targeted cleaning with UI overlay:
 <video src="https://github.com/user-attachments/assets/76ce7a02-07b2-4768-a085-08adbf9e5322" controls width="100%">
   Your browser does not support the video tag.
 </video>
