@@ -7,10 +7,13 @@ This project has been validated in the industry to deliver a standardized automa
 removes human variance and guarantees a repeatable, high-throughput baseline for optimized spectroscopic data collection.
 
 
-Short clip of machine running:
-<video src="https://github.com/user-attachments/assets/0663c8ec-6aa6-4431-be75-8947fde65574" controls width="100%">
+Short clip of machine running and UI overlay:
+<video src="https://github.com/user-attachments/assets/76ce7a02-07b2-4768-a085-08adbf9e5322" controls width="100%">
   Your browser does not support the video tag.
 </video>
 
 Machine details:  
 <img alt="cnc-poster" src="https://github.com/user-attachments/assets/64f90f7e-0ef8-403b-8d72-d061dd0277dd" width="85%" />
+
+
+
